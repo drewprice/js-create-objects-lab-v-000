@@ -51,5 +51,5 @@ describe('objects', function() {
   //     expect(pinocchio.waterConditions).toEqual("salt water");
   //   });
 
-  });
+//  });
 });
